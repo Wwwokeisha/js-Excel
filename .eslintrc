@@ -15,7 +15,8 @@
     "spaced-comment": "off",
     "arrow-parens": "off",
     "operator-linebreak": "off",
-    "max-len": "off"
+    "max-len": "off",
+    "prefer-const": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
